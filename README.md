@@ -2,4 +2,4 @@
 
 Training course -> Udemy - Complete guide to building an app with .Net Core and React - Neil Cummings
 
-.NER 7 / React 18
+.NET 7 / React 18
